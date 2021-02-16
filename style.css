@@ -1,0 +1,32 @@
+/* PAGE PRINCIPAL */
+
+body
+{
+	background-color:#f9eac3;
+}
+
+h1
+{
+	text-align: center ;
+	color: black;
+	font-size: 40px;
+}
+
+header
+{   
+	width: 90% ;
+	margin-left: 5%;
+	border-top: solid ;
+	border-bottom: solid ;
+	border-left: solid ;
+	border-right: solid ;
+	border-color: white ;
+	background-color: white ;
+}
+
+main
+{
+	background-color:white;
+	width: 36% ;
+	margin: auto;
+}
